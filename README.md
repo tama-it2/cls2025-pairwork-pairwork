@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pXPlhKXe)
 # ペアワークによる共同作業練習
 
 # 課題部分
@@ -8,14 +9,14 @@
 - 趣味：街歩き
 - 特技：そろばん
 
-### 永山　進（[出原ゼミ](README.md#出原先生の紹介)）
-- 趣味：
-- 特技：
+### 秋山颯斗（[落合ゼミ](README.md#落合先生の紹介)）
+- 趣味：漫画
+- 特技：パソコン
 
 ## 石川先生の紹介
 
-## 出原先生の紹介
-
+## 落合先生の紹介
+学習院大学経済学部卒業。早稲田大学大学院商学研究科修士課程修了（商学修士）。明治大学大学院経営学研究科博士後期課程単位取得満期退学。青森公立大学経営経済学部教授を経て2021年4月より現職。
 
 ## 作業上の注意
 
