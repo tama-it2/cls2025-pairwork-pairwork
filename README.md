@@ -1,22 +1,25 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pXPlhKXe)
 # ペアワークによる共同作業練習
 
 # 課題部分
 
 ## チームメンバー
 
-### 多摩太郎（[石川ゼミ](README.md#石川先生の紹介)）
-- 趣味：街歩き
-- 特技：そろばん
+### 相部　羽也斗（[田中ゼミ](README.md#田中先生の紹介)）
+- 趣味：音楽鑑賞
+- 特技：ドラム
 
-### 永山　進（[出原ゼミ](README.md#出原先生の紹介)）
-- 趣味：
-- 特技：
+### 石塚光晴（[齋藤Sゼミ](README.md#齋藤S先生の紹介)）
+- 趣味：ゲーム
+- 特技：ギター
 
-## 石川先生の紹介
+## 田中先生の紹介
 
-## 出原先生の紹介
+([researchmap](https://researchmap.jp/tanaka_yuri))
+社会心理学を専門とする先生。ゼミでは学生に心理学の研究や調査方法の基礎を教えている。
 
-
+## 齋藤S先生の紹介
+- 所属：経営情報学部　経営情報学科
 ## 作業上の注意
 
 - 個別にブランチを切って作業すること
